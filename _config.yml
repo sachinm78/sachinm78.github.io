@@ -1,0 +1,20 @@
+# Site settings
+author: Sachin Mahajan
+title: 
+header-img: img/home-bg.png
+email: sachinm78@gmail.com
+copyright_name: Sachin Mahajan
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  sachinm78
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
