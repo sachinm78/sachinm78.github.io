@@ -5,7 +5,7 @@ date:       2019-04-03 13:44:37 -0400
 permalink:  why_i_decided_to_study_coding
 ---
 
-From a very young age, I've always been fascinated with puzzles and riddles.  I never met a logic puzzle I didn't want to try to crack.  That fascination has definitely stayed with me as an adult.  When I have down time, you'll often find me on my phone solving math, logic or word puzzles.  Now I find myself in pursuit of learning to solve a new puzzle: web development.  
+From a very young age, I've always been fascinated with puzzles and riddles.  I never met a logic puzzle I didn't want to try to crack.  That fascination has definitely stayed with me as an adult.  When I have down time, you'll often find me on my phone solving math, logic or word puzzles.  The latest puzzle to fascinate me is coding and technology.  It’s a world that seems foreign, yet familiar, impossible, yet attainable, magical, yet logical all at the same time.  It’s a world I feel like I’ve explored my whole life, only to learn I have only covered a small fraction of all there is to learn.  It's why I took the bold decision to quit my job and learn to code with a focus on web development.
 
 While I have always been tech savvy and interested in learning more about computer programming and how the web works, I’ve only had limited experience working with HTML to create basic web layouts back when I was in college at Loyola University Chicago.  Technology has come a long way since I graduated, but I’ve done my best to keep up with the trends.  As a daily user of the internet, I know a few tricks, but I consider myself a knowledgeable novice when it comes to understanding and writing computer code.
 
