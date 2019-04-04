@@ -1,11 +1,11 @@
 # Site settings
 author: Sachin Mahajan
-title: 
+title: All About The Binary
 header-img: img/home-bg.png
 email: sachinm78@gmail.com
 copyright_name: Sachin Mahajan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Journey Into Learning Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sachinm78
