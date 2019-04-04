@@ -65,7 +65,5 @@ So with a topic I cared about in hand, it was a couple days of trial and error, 
 
 Thanks for reading.  I’ll be back with some more thoughts on coding soon.  Until then, happy coding!  
 
-```
-<a href="http://google.com">Google.com</a>
-```
+http://google.com
 
