@@ -16,7 +16,7 @@ While coding always seemed accessible, it wasn’t until my most recent job that
 
 The list of new skills I learned in my 2 and-a-half years at TinkRworks is extensive, but the one I’m most grateful for is the deeper introduction into the world of development and code.  My first exposure was through an online block coding program called Scratch.  It was developed by a team of educators at MIT to help make coding more accessible to young learners.  Using simple to learn coding blocks, Scratch allows you to create games, apps and animated stories.  It was definitely one of my favorite programs to teach.  
 
-![](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/scratch-programming-interface-gaming.jpg)
+![](https://cdn.instructables.com/FG5/67OI/IANRGV9Y/FG567OIIANRGV9Y.LARGE.jpg)
 *Example block coding in Scratch*
 
 Aside from Scratch and other similar coding apps, I aalso worked with a lot of DIY robotics projects using Arduino microcontrollers and a whole mess of electrnics and wires.  So erhaps the most important skill I learned teaching STEAM was debugging.  Coding is difficult and even the best programmers make mistakes.  When your coders are young elementary students, mistakes are expected and encouraged as a learning opportunity.  I spent countless hours working to help students solve problems in their code or in their wiring for their DIY projects.  I became quite adept at following a mess of wires to find exactly which one was causing our robots to fail.  It's a skill I know I will learn to hone even further in my new career path.  
