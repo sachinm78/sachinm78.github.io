@@ -6,7 +6,7 @@ permalink:  project_1_cli_data_gem
 ---
 
 
-This week, my cohort (#team-ninja-vis-hid) and I began working on our first project: a CLI data gem.  When coding in Ruby, a gem is a library or data file that you can use to enhance, improve and add functionality to your code.  For more information on gems, check out this helpful guide from Stack Overflow: https://guides.rubygems.org/what-is-a-gem/
+This week, my cohort (#team-ninja-vis-hid) and I began working on our first project: a CLI data gem.  When coding in Ruby, a gem is a library or data file that you can use to enhance, improve and add functionality to your code.  For more information on gems, check out this helpful guide from Stack Overflow: [What is a gem?](https://guides.rubygems.org/what-is-a-gem/)
 
 CLI stands for command line interface.  In the early days of the tech revolution, CLIs were the primary way programmers interacted with their code.  These days, many users would be unfamiliar with CLI’s, but they’re still an essential tool in the belt of any software engineer.  I’m old enough to remember booting up a PC and using MS-DOS or when the first internet chat rooms were CLI applications where users could type and communicate with people from anywhere in the world.  It all sounds ordinary now in a world where we have internet access in the palm of our hands.  But back when I was just starting college, CLIs were all the rage. 
 
@@ -26,7 +26,7 @@ Let’s cover some of the key tools needed to complete this project:
 *Example of OO Ruby Class / Object Relationship*
 
 There are tons of resources available online to learn more about OO Ruby, but I highly recommend starting with *“Why’s Poignant Guide to Ruby.”*  It’s not your typical book on coding.  It’s hilarious, quirky, and full of cartoons that will keep you laughing while you learn.  Frankly, it deserves its own blog post.  Trust me, it’s good, and it’s free!  Check it out here: 
-[] (https://poignant.guide/)
+[Why's Poignant Guide](https://poignant.guide/)
 
 **Chrome Inspect Tool:** one of the coolest features included with Google Chrome is the “Inspect” tool.  Next time you’re browsing the web, right-click on any element on the page and select “Inspect.”  This will open up Chrome’s development tools menu.  It’s definitely easy to get lost in all the information being provided, but the key is to learn to parse all the HTML elements and find exactly the data you want to scrape.  
 
@@ -37,12 +37,12 @@ There are tons of resources available online to learn more about OO Ruby, but I 
 
 Finding the right elements can be tricky, especially if you’re unfamiliar with HTML.  But don’t fret because there’s another amazing gem that will be your best friend on your journey through OO Ruby programming: Pry.  
 
-Pry allows the programmer to jump right into their code to play around and see what it might output.  It was absolutely essential for me to help find the bugs in my code.  It was especially helpful when looking for the best HTML elements to try to scrape data from.  In Pry, I could copy and paste a particular HTML class element from a web page to see what data it contains.  Through this method, I was able to find exactly the data I needed.  If you’re planning to learn Ruby, make sure you have Pry as your go-to debugging tool. For more about Pry, check out this site: [] (https://pryrepl.org/)
+Pry allows the programmer to jump right into their code to play around and see what it might output.  It was absolutely essential for me to help find the bugs in my code.  It was especially helpful when looking for the best HTML elements to try to scrape data from.  In Pry, I could copy and paste a particular HTML class element from a web page to see what data it contains.  Through this method, I was able to find exactly the data I needed.  If you’re planning to learn Ruby, make sure you have Pry as your go-to debugging tool. For more about Pry, check out this site: [Pry](https://pryrepl.org/)
 
 ![](https://i0.wp.com/www.rubyguides.com/wp-content/uploads/2015/07/pry-binding.png)
 *Example CLI display using Pry*
 
-The final gem I used was called Colorize.  Before adding this gem to my project, my code looked dull and it was difficult to follow the content on the page.  With colorize, I could use commands to add color to my text, highlighting and other cool formatting to create a better user experience.  It was super simple to implement.  You can learn more about Colorize here: [] (https://github.com/fazibear/colorize/blob/master/README.md)
+The final gem I used was called Colorize.  Before adding this gem to my project, my code looked dull and it was difficult to follow the content on the page.  With colorize, I could use commands to add color to my text, highlighting and other cool formatting to create a better user experience.  It was super simple to implement.  You can learn more about Colorize here: [Colorize Gem](https://github.com/fazibear/colorize/blob/master/README.md)
 
 That covers some of the basics needed to create this project.  One last piece of advice: choose a topic you care about.  I started the week with a topic that I wasn’t really into, but it seemed like it would be easy to try to scrape.  The problem was, I didn’t feel inspired or motivated by the topic I had chosen.  So instead, I scrapped what I had worked on that first day and decided to scrape data from the Chicago Blackhawks team roster for this project.  
 
@@ -65,5 +65,4 @@ So with a topic I cared about in hand, it was a couple days of trial and error, 
 
 Thanks for reading.  I’ll be back with some more thoughts on coding soon.  Until then, happy coding!  
 
-[Google.com](http://google.com)
 
