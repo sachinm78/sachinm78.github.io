@@ -5,7 +5,7 @@ date:       2019-04-03 13:44:37 -0400
 permalink:  why_i_decided_to_study_coding
 ---
 
-From a very young age, I've always been fascinated with puzzles and riddles.  I never met a logic puzzle I didn't want to try to crack.  That fascination has definitely stayed with me as an adult.  When I have down time, you'll often find me on my phone solving math, logic or word puzzles.  Now I find myself in persuit of learning to solve a new puzzle: web development.  
+From a very young age, I've always been fascinated with puzzles and riddles.  I never met a logic puzzle I didn't want to try to crack.  That fascination has definitely stayed with me as an adult.  When I have down time, you'll often find me on my phone solving math, logic or word puzzles.  Now I find myself in pursuit of learning to solve a new puzzle: web development.  
 
 While I have always been tech savvy and interested in learning more about web development and computer programming, I’ve only had limited experience working with HTML to create basic web layouts back when I was in college at Loyola University Chicago.  Technology has come a long way since I graduated, but I’ve done my best to keep up with the trends.  As a daily user of the internet, I know a few tricks, but I consider myself a knowledgeable novice when it comes to understanding and writing computer code.
 
@@ -19,7 +19,7 @@ The list of new skills I learned in my 2 and-a-half years at TinkRworks is exten
 ![](https://cdn.instructables.com/FG5/67OI/IANRGV9Y/FG567OIIANRGV9Y.LARGE.jpg)
 *Example block coding in Scratch*
 
-Aside from Scratch and other similar coding apps, I aalso worked with a lot of DIY robotics projects using Arduino microcontrollers and a whole mess of electrnics and wires.  So erhaps the most important skill I learned teaching STEAM was debugging.  Coding is difficult and even the best programmers make mistakes.  When your coders are young elementary students, mistakes are expected and encouraged as a learning opportunity.  I spent countless hours working to help students solve problems in their code or in their wiring for their DIY projects.  I became quite adept at following a mess of wires to find exactly which one was causing our robots to fail.  It's a skill I know I will learn to hone even further in my new career path.  
+Aside from Scratch and other similar coding apps, I also worked with a lot of DIY robotics projects using Arduino microcontrollers and a whole mess of electronics and wires.  So perhaps the most important skill I learned teaching STEAM was debugging.  Coding is difficult and even the best programmers make mistakes.  When your coders are young elementary students, mistakes are expected and encouraged as a learning opportunity.  I spent countless hours working to help students solve problems in their code or in their wiring for their DIY projects.  I became quite adept at following a mess of wires to find exactly which one was causing our robots to fail.  It's a skill I know I will learn to hone even further in my new career path.  
 
 ![](https://lifeofahomeschoolersite.files.wordpress.com/2018/01/0-02-01-46631c0308f650ba97afc343709fdbb27f10dbd4643fe021bee9c020e70b9ffa_full1.jpg)
 *Just look at all those wires!!!*
