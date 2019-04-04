@@ -6,7 +6,7 @@ permalink:  project_1_cli_data_gem
 ---
 
 
-This week, my cohort (#team-ninja-vis-hid) and I began working on our first project: a CLI data gem.  When coding in Ruby, a gem is a library or data file that you can use to enhance, improve and add functionality to your code.  For more information on gems, check out this helpful guide from Stack Overflow: [] (https://guides.rubygems.org/what-is-a-gem/)
+This week, my cohort (#team-ninja-vis-hid) and I began working on our first project: a CLI data gem.  When coding in Ruby, a gem is a library or data file that you can use to enhance, improve and add functionality to your code.  For more information on gems, check out this helpful guide from Stack Overflow: https://guides.rubygems.org/what-is-a-gem/
 
 CLI stands for command line interface.  In the early days of the tech revolution, CLIs were the primary way programmers interacted with their code.  These days, many users would be unfamiliar with CLI’s, but they’re still an essential tool in the belt of any software engineer.  I’m old enough to remember booting up a PC and using MS-DOS or when the first internet chat rooms were CLI applications where users could type and communicate with people from anywhere in the world.  It all sounds ordinary now in a world where we have internet access in the palm of our hands.  But back when I was just starting college, CLIs were all the rage. 
 
@@ -65,5 +65,5 @@ So with a topic I cared about in hand, it was a couple days of trial and error, 
 
 Thanks for reading.  I’ll be back with some more thoughts on coding soon.  Until then, happy coding!  
 
-http://google.com
+[Google.com](http://google.com)
 
