@@ -29,7 +29,7 @@ As head of the education team, I worked very closely with our dev team on what o
 But changing careers is not so simple.  In fact, it can be stressful and terrifying.  This was not my first major career change, however, so I had an idea of the challenges that would lie ahead.  It was in 2007 that I quit a promising career in banking to become a certified teacher.  By 2008, I was teaching English on a small Island in South Korea called Jeju Island.  Little did I know that I would call Jeju my home for almost a decade.  The experiences I had living and teaching abroad were life-changing.  I even met my wife along the way on that very same little South Korean island.   But that would be a much longer blog story!
 
 ![](https://farm7.staticflickr.com/6002/5983290258_f504ffdb11_b.jpg)
-*One of a million beautiful photos of Jeju Island"
+*One of a million beautiful photos of Jeju Island*
 
 Thankfully, my current career change is not nearly as difficult to achieve.  I am grateful that I had the support of my wife and my family and friends to make this change a possibility.  And it was a friend that I met in my teachings in Korea that helped inspire me to check out Flatiron school.  
 
