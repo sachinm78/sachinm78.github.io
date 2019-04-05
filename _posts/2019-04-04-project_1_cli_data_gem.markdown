@@ -63,6 +63,10 @@ So with a topic I cared about in hand, it was a couple days of trial and error, 
 * **Make sure you have a great support group.**  It’s always more fun to have someone to show your code to and to bounce ideas of off.  I wouldn’t have completed this project without the support of my cohort lead and fellow ninjas!
 * **Use Google!** Whether you're doing it on your own or with support,  just make sure that you explore all the resources out there at your fingertips.  I have barely scratched the surface here.  
 
-Thanks for reading.  I’ll be back with some more thoughts on coding soon.  Until then, happy coding!  
+Thanks for reading.  If you'd like to see a demo of my CLI gem in action, you can watch a short video here: [Blackhawks-CLI Demo](https://youtu.be/sI40M7P2xqA)
+
+And if you'd like to try it out, or see the code itself, you can visit the github page for this gem here: [Blackhawks-CLI](https://github.com/sachinm78/Blackhawks-CLI)
+
+I’ll be back with some more thoughts on coding soon.  Until then, happy coding!  
 
 
