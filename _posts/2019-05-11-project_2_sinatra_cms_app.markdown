@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project 2: Sinatra CMS App"
-date:       2019-05-11 17:23:07 +0000
+date:       2019-05-11 13:23:08 -0400
 permalink:  project_2_sinatra_cms_app
 ---
 
@@ -43,6 +43,8 @@ For more about ActiveRecord Associations, check out the Rails guide [here:](http
 **CRUD:** In computer science, the four basic functions of persistent storage are create, read, update, and delete.  These are the functions our user will expect from our app.  In my Reading List application, users should be able to create a unique account, log in and out of the application, add books to their reading list, and then edit, update or delete those books.  
 
 That covers some of the basics needed to create this project.  Just like with your first project, you are likely to encounter numerous bugs and errors along the way.  There may even be moments where you feel like giving up or that it’s just too difficult to do.  When you feel those negative thoughts creeping in, take a deep breath and reach out for help.  My cohort lead and fellow members definitely helped me troubleshoot issues along the way.  Also, don’t forget to return the favor and help others along once you’ve completed your project.  
+
+If you'd like to see a video demonstration of my app, you can do so here: (coming soon)
 
 Thanks for reading.  I’ll be back with some more thoughts on the process of learning web development soon.  Until then, happy coding!  
 
