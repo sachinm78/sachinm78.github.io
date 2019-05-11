@@ -32,7 +32,7 @@ In the MVC format, Models serve as “the brains” of the application.  This is
 The Views section of you app is the user interface.  Here, we write all our CSS and HTML code that creates the user experience.  Everything your user can see or interact with in your application will be coded here.  
 
 ![](https://cdn-images-1.medium.com/max/1000/1*JY9MYH-w_aBOZHfCJCx52Q.png)
-*(Sample Sinatra MVC File Structure: Image source: https://cdn-images-1.medium.com/max/1000/1*JY9MYH-w_aBOZHfCJCx52Q.png)*
+*(Sample Sinatra MVC File Structure: Image source: https://cdn-images-1.medium.com/max/1000/1JY9MYH-waBOZHfCJCx52Q.png)*
 
 Last but definitely not least, the Controls section of your application is where you will spend the majority of your time working and debugging.  Controllers are the link between the Models and the Views.  They allow the Models and Views to communicate.  The Controllers section is also generally further broken down so that routes for actions by the user are separate from routes for the object in question and general routes for the application.  
 
