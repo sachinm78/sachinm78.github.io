@@ -44,7 +44,7 @@ For more about ActiveRecord Associations, check out the Rails guide [here:](http
 
 That covers some of the basics needed to create this project.  Just like with your first project, you are likely to encounter numerous bugs and errors along the way.  There may even be moments where you feel like giving up or that it’s just too difficult to do.  When you feel those negative thoughts creeping in, take a deep breath and reach out for help.  My cohort lead and fellow members definitely helped me troubleshoot issues along the way.  Also, don’t forget to return the favor and help others along once you’ve completed your project.  
 
-If you'd like to see a video demonstration of my app, you can do so here: (coming soon)
+If you'd like to see a video demonstration of my app, you can do so [here:](https://www.youtube.com/watch?v=lerw8gZVQh4&feature=youtu.be)
 
 Thanks for reading.  I’ll be back with some more thoughts on the process of learning web development soon.  Until then, happy coding!  
 
