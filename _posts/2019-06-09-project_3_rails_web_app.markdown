@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project 3: Rails Web App"
-date:       2019-06-09 20:08:48 +0000
+date:       2019-06-09 16:08:49 -0400
 permalink:  project_3_rails_web_app
 ---
 
@@ -46,7 +46,7 @@ This is a challenging requirement because there were only a few labs in the curr
 
 Our Rails project had many specifications, which can seem daunting at first.  But as with anything in life, if you take it one step at a time, you'll be pleasantly surprised at how much you can achieve if you really put your mind to it.  I found this project to be challenging and at times, quite frustrating.  But in the end, it was a very rewarding experience to learn how to troubleshoot and problem solve my errors mostly on my own.  There's no better feeling of accomplishment than completing a difficult challenge.  You can do it, future coder!
 
-If you'd like to see a video demonstration of my app, you can do so here (coming soon).
+If you'd like to see a video demonstration of my app, you can do so [here](https://www.youtube.com/watch?v=l3wu2nolwaA&t=3s).
 
 Thanks for reading.  I’ll be back with some more thoughts on web development soon.  Until then, happy coding!  
 
