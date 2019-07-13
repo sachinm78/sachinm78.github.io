@@ -21,7 +21,7 @@ Let’s look at each of these requirements in more detail:
 ![]http://wiki.expertiza.ncsu.edu/images/2/2c/ORM_Flowchart.jpg)
 *(Image source: http://wiki.expertiza.ncsu.edu/images/2/2c/ORMFlowchart.jpg)*
 
-For a basic overview of ActiveRecord and ORMs, check out the Rails guide here: [](https://guides.rubyonrails.org/active_record_basics.html)
+For a basic overview of ActiveRecord and ORMs, check out the Rails guide [here:](https://guides.rubyonrails.org/active_record_basics.html)
  
 
 **MVC File Structure:** When creating a computer program, it’s important to remember the **Separation of Concerns (SoC)** principle.  By separating our code into distinct sections that are each responsible for performing specific tasks, it will be far easier to debug and maintain our program over time.  
@@ -37,15 +37,16 @@ Last but definitely not least, the Controls section of your application is where
 
 **Relationships (has_many and belongs_to):** In ActiveRecord, we can use **Associations** to help connect our data.  For example, if you are creating an app that will track your favorite shows, you could say that your users have many shows and that your shows belong to a user.  For my project, my users have many books and books on a reading list belong to a user.  
 
-For more about ActiveRecord Associations, check out the Rails guide here:
-[](https://guides.rubyonrails.org/association_basics.html)
+For more about ActiveRecord Associations, check out the Rails guide 
+[here:](https://guides.rubyonrails.org/association_basics.html)
 
 **CRUD:** In computer science, the four basic functions of **persistent storage** are create, read, update, and delete.  These are the functions our user will expect from our app.  In my Reading List application, users should be able to create a unique account, log in and out of the application, add books to their reading list, and then edit, update or delete those books.  
 
 That covers some of the basics needed to create this project.  Just like with your first project, you are likely to encounter numerous bugs and errors along the way.  There may even be moments where you feel like giving up or that it’s just too difficult to do.  When you feel those negative thoughts creeping in, take a deep breath and reach out for help.  My cohort lead and fellow members definitely helped me troubleshoot issues along the way.  Also, don’t forget to return the favor and help others along once you’ve completed your project.  
 
-Thanks for reading.  I’ll be back with some more thoughts on the process of learning web development soon.  Until then, happy coding!  
+If you’d like to see a video demonstration of my app, you can do so [here:](https://www.youtube.com/watch?v=lerw8gZVQh4&t=1s) 
 
+Thanks for reading. I’ll be back with some more thoughts on the process of learning web development soon. Until then, happy coding!
 
 
 
