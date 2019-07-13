@@ -18,7 +18,7 @@ Let’s look at each of these requirements in more detail:
 
 **Sinatra ActiveRecord:** To understand ActiveRecord, first we must understand the importance of **Object Relational Mapping (ORM)**.  In Object Oriented languages like Ruby, ORMs allow us to wrap our data in Ruby objects so we can easily manipulate them.  Instead of writing out Ruby methods by hand like we did for our CLI Gem project, here we can use the ORM ActiveRecord to inherit all the methods we will need to manipulate our object data.  
 
-![] (http://wiki.expertiza.ncsu.edu/images/2/2c/ORM_Flowchart.jpg)
+![](http://wiki.expertiza.ncsu.edu/images/2/2c/ORM_Flowchart.jpg)
 *(Image source: http://wiki.expertiza.ncsu.edu/images/2/2c/ORMFlowchart.jpg)*
 
 For a basic overview of ActiveRecord and ORMs, check out the Rails guide [here:](https://guides.rubyonrails.org/active_record_basics.html)
@@ -30,7 +30,7 @@ In the MVC format, Models serve as “the brains” of the application.  This is
 
 The Views section of you app is the user interface.  Here, we write all our CSS and HTML code that creates the user experience.  Everything your user can see or interact with in your application will be coded here.  
 
-[] (https://cdn-images-1.medium.com/max/1000/1JY9MYH-waBOZHfCJCx52Q.png)
+![](https://cdn-images-1.medium.com/max/1000/1*JY9MYH-w_aBOZHfCJCx52Q.png)
 *(Sample Sinatra MVC File Structure: Image source: https://cdn-images-1.medium.com/max/1000/1JY9MYH-waBOZHfCJCx52Q.png)*
 
 Last but definitely not least, the Controls section of your application is where you will spend the majority of your time working and debugging.  Controllers are the link between the Models and the Views.  They allow the Models and Views to communicate.  The Controllers section is also generally further broken down so that routes for actions by the user are separate from routes for the object in question and general routes for the application.  
