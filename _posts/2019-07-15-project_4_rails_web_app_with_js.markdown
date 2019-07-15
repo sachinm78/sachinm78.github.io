@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project 4: Rails Web App With JS"
-date:       2019-07-15 18:55:54 +0000
+date:       2019-07-15 14:55:55 -0400
 permalink:  project_4_rails_web_app_with_js
 ---
 
@@ -19,7 +19,7 @@ One element that proved somewhat challenging for me was to display form data dyn
 
 This project may feel daunting at first since JS syntax takes some getting used to.  But I was able to follow a wonderful example lesson from the Learn.co video library to help me pass all the requirements.  I highly recommend starting your project by watching and coding along with [this example](https://www.youtube.com/watch?v=oHPM0ekV7zQ).  
 
-If you'd like to see a video demonstration of my app, you can do so here (coming soon).
+If you'd like to see a video demonstration of my app, you can do so [here](https://youtu.be/lWiPMK_h4Gc).
 
 Thanks for reading.  I’ll be back with some more thoughts on web development soon.  Until then, happy coding!  
 
