@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: sachinm78@gmail.com
 copyright_name: Sachin Mahajan
 description: > # this means to ignore newlines until "baseurl:"
-  A Journey Into Learning Code
+  A Journey Into Learning Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  sachinm78
