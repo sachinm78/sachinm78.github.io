@@ -27,8 +27,8 @@ Let’s break down this project into 3 main categories:
 
 **Getting Started:** For this project, I found myself struggling to get started at first because I wasn’t quite sure what I wanted to build.  I also didn’t feel completely comfortable with some of the new course material, and I wasn’t quite sure if I should start with the front-end or back-end.  So I decided to take some time early in project week to practice connecting React apps to Rails APIs and get more comfortable with all the new course materials in this final section of our program.  If you too are struggling to get started, I highly recommend watching and coding along to the following video tutorials from the Learn Library:
 
-* [Mock-bnb]application (https://www.youtube.com/watch?v=cRuJCeXZadM)
-* Kais surf shop[Part 1](https://www.youtube.com/watch?v=nnqmLFop8Cg) and [Part 2](https://www.youtube.com/watch?v=9KrrlWy1E_A)
+* [Mock-bnb](https://www.youtube.com/watch?v=cRuJCeXZadM) application
+* Kais surf shop [Part 1](https://www.youtube.com/watch?v=nnqmLFop8Cg) and [Part 2](https://www.youtube.com/watch?v=9KrrlWy1E_A)
 
 Even if you know exactly what you want to build, these videos will definitely still help you get started, troubleshoot, and follow good habits as you code.  
 
@@ -62,7 +62,7 @@ To do this, Redux uses a pattern of [actions](https://redux.js.org/basics/action
 ![Redux Data Flow](https://image.slidesharecdn.com/theevolutionofreduxactioncreators-160825141450/95/the-evolution-of-redux-action-creators-5-638.jpg?cb=1472134833)
 *(Image source: https://image.slidesharecdn.com/theevolutionofreduxactioncreators-160825141450/95/the-evolution-of-redux-action-creators-5-638.jpg?cb=1472134833)  *
 
-**Redux Thunk:** The final piece to our front-end puzzle is a middleware called **Thunk**.  Thunk allows us to use our Redux action creators to return a function instead of a plain old JavaScript object.  I found it easy to implement this middleware, but if you’re struggling to understand it, try this [blog](https://daveceddia.com/what-is-a-thunk/)
+**Redux Thunk:** The final piece to our front-end puzzle is a middleware called **Thunk**.  Thunk allows us to use our Redux action creators to return a function instead of a plain old JavaScript object.  I found it easy to implement this middleware, but if you’re struggling to understand it, try this [blog](https://daveceddia.com/what-is-a-thunk/).
 
 For more information on Redux, read the [official documentation](https://redux.js.org/introduction/getting-started)
 
@@ -77,8 +77,8 @@ Since my application required a lot of unique data to optimize randomization, I 
 **Connecting Your API to React:** Once you have your API set-up with data seeded and properly rendering in json, connecting to your React app is easy.  For this project, we were required to use the **fetch() method** within our actions to GET and POST data from our API.  
 
 A couple tools you will definitely want installed are the **React and Redux DevTools** extensions.  These tools are key in testing your data as you build your app.  And when you’re ready to connect to your API, the Redux Dev Tools will be your best friend to test your data and debug any issues.  They are available for most modern browsers, but I recommend using Chrome as your go-to browser for web development.  
-[React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) for Chrome
-[Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) for Chrome
+* [React Dev Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) for Chrome
+* [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en) for Chrome
 
 ![Redux DevTools](https://i.stack.imgur.com/1rHes.png)
 *(Image source: https://i.stack.imgur.com/1rHes.png)*
