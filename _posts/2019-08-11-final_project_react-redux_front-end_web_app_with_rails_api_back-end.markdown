@@ -42,7 +42,8 @@ I decided to build out my front-end application first because in order for me to
 
 When you’re ready to get started, simply use the command *create-react-app your-app-name*.  
 
-![Sample File Structure Using create-react-app](https://hackernoon.com/hn-images/1*eXN1LlNnuZmosJ7n7EsJ-Q.png)
+*Sample File Structure Using create-react-app*
+![](https://hackernoon.com/hn-images/1*eXN1LlNnuZmosJ7n7EsJ-Q.png)
 *(Image source: https://hackernoon.com/hn-images/1eXN1LlNnuZmosJ7n7EsJ-Q.png)*
 
 **Container Components vs Presentational Components:** One of the most important concepts to make sure you understand before working on your project is the difference between Container - *or functional* - components and Presentational - *or stateless* - components.  The primary difference between the two is that  Container components care about *how things work* and Presentational components care about *how things look*.  
@@ -59,8 +60,9 @@ Here are some helpful resources to help you fully grasp these concepts:
 
 To do this, Redux uses a pattern of [actions](https://redux.js.org/basics/actions) and [reducers](https://redux.js.org/basics/reducers) working together to manage the [store](https://redux.js.org/basics/store) - a single object that holds the application’s state.  Actions are payloads of data that send changes to state based on what occurs (e.g. a user clicks a button.  Reducers specify how state will change based on those actions.  These actions can then be imported into your Container components to be called as needed.
 
-![Redux Data Flow](https://image.slidesharecdn.com/theevolutionofreduxactioncreators-160825141450/95/the-evolution-of-redux-action-creators-5-638.jpg?cb=1472134833)
-*(Image source: https://image.slidesharecdn.com/theevolutionofreduxactioncreators-160825141450/95/the-evolution-of-redux-action-creators-5-638.jpg?cb=1472134833)  *
+*Redux Data Flow*
+![](https://image.slidesharecdn.com/theevolutionofreduxactioncreators-160825141450/95/the-evolution-of-redux-action-creators-5-638.jpg?cb=1472134833)
+*(Image source: https://image.slidesharecdn.com/theevolutionofreduxactioncreators-160825141450/95/the-evolution-of-redux-action-creators-5-638.jpg?cb=1472134833)*
 
 **Redux Thunk:** The final piece to our front-end puzzle is a middleware called **Thunk**.  Thunk allows us to use our Redux action creators to return a function instead of a plain old JavaScript object.  I found it easy to implement this middleware, but if you’re struggling to understand it, try this [blog](https://daveceddia.com/what-is-a-thunk/).
 
