@@ -12,7 +12,7 @@ Let’s break down this project into 3 main categories:
 
 1. REACT
 * Getting started
-* Getting started
+* Container Components vs. Presentational Components
 
 2. REDUX
 * What is Redux?
