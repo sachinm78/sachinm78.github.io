@@ -56,7 +56,7 @@ Here are some helpful resources to help you fully grasp these concepts:
 
 ### **2. REDUX**
 
-**What is Redux?**  React is very powerful, but it does have some limitations.  Redux is a powerful state container for React applications that simplifies how we manage state.  By placing state in one simple JS object and allowing all parts of our application to access that object, Redux helps make our React more efficient and our code easier to manage.  
+**What is Redux?**  React is very powerful, but it does have some limitations.  Redux is a state container for React applications that simplifies how we manage state.  By placing state in one simple JS object and allowing all parts of our application to access that object, Redux helps make our React more efficient and our code easier to manage.  
 
 To do this, Redux uses a pattern of [actions](https://redux.js.org/basics/actions) and [reducers](https://redux.js.org/basics/reducers) working together to manage the [store](https://redux.js.org/basics/store) - a single object that holds the application’s state.  Actions are payloads of data that send changes to state based on what occurs (e.g. a user clicks a button.  Reducers specify how state will change based on those actions.  These actions can then be imported into your Container components to be called as needed.
 
