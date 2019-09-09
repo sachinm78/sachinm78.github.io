@@ -91,7 +91,7 @@ If you'd like to explore the code for this project, here is a link to my repos:
 * [Randomness API](https://github.com/sachinm78/Randomness-api) Rails Application
 * [Randomness Client](https://github.com/sachinm78/Randomness-client) React-Redux Application
 
-And if you'd like to see a video demonstration of my app, you can do so here. (coming soon).
+And if you'd like to see a video demonstration of my app, you can do so [here]https://www.youtube.com/watch?v=ClmMETSF2no&t=8s).
 
 Thanks for reading.  I’ll be back with some more thoughts on web development soon.  Until then, happy coding!  
 
