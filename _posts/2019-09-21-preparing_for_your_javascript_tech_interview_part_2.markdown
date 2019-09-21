@@ -45,7 +45,7 @@ Additional resources:
 Additional Resources:
 * [MDN docs on hoisting](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 
-![](https://karolgalanciak.com/images/js_results_not_so_wut.jpg/)
+![](https://karolgalanciak.com/images/js_results_not_so_wut.jpg)
 
 These are just a few key concepts that may come up during a technical interview.  Be sure to review them, but don’t stop there.  There are loads of resources available to help you prepare for your technical interview.  I’ll close this post with a few additional resources that go beyond what I’ve covered here:
 
