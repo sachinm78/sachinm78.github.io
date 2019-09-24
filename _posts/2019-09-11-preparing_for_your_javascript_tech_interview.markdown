@@ -44,4 +44,4 @@ I haven't tried all of these sites personally, but I've enjoyed and learned quit
 
 I have barely skimmed the surface on all the wonderful resources that are available to help ease some of the nerves that come with having to complete technical interviews.  But I hope the above links will prove to be as helpful to you as they have to me thus far.
 
-In part 2 of this topic, I will take a step back and go over some of the fundamentals of JS every programmer should review before their next tech interview.  Until then, happy coding!
+In [part 2](http://crackingthecode.net/preparing_for_your_javascript_tech_interview_part_2) of this topic, I will take a step back and go over some of the fundamentals of JS every programmer should review before their next tech interview.  Until then, happy coding!
