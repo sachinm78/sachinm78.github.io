@@ -18,7 +18,7 @@ I recently had my first experience with the dreaded technical interview a few we
 
 It went well, better than I had expected.  The interviewer was a big part of that.  He was patient, helpful, supportive and gave me excellent feedback on where I did well and where I needed to improve my knowledge.  And it was a pleasant surprise to me, but I really enjoyed the process.  But that may not be the case in the real world.  In fact, there are plenty of horror stories out there and I'm sure most of us have heard our share of them.  
 
-But fear not.  There are plenty of resources available that will help you prepare for the real deal.  In part 1 of this post, I will list out some that I found helpful and others that I use to practice technical questions.  In next week’s follow up post, I’ll list some key concepts you should know before your JS tech interview with resources to help you strengthen your knowledge and confidence.  
+But fear not.  There are plenty of resources available that will help you prepare for the real deal.  In part 1 of this post, I will list out some that I found helpful and others that I use to practice technical questions.  In next week’s [follow up post](http://crackingthecode.net/preparing_for_your_javascript_tech_interview_part_2), I’ll list some key concepts you should know before your JS tech interview with resources to help you strengthen your knowledge and confidence.  
 
 *Practice Makes Perfect*
 ![](https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_497/practice_makes_perfect_1200x627.jpg?quality=89&w=800)
