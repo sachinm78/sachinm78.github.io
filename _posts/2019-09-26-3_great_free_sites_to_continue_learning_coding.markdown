@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "3 Great Free Sites to Continue Learning Coding"
-date:       2019-09-26 21:06:15 +0000
+date:       2019-09-26 17:06:16 -0400
 permalink:  3_great_free_sites_to_continue_learning_coding
 ---
 
@@ -34,24 +34,24 @@ While I haven’t really tried too many of their lessons, I did sign up and join
 -------------------------------------------------------------------------------------------------------------------------------------
 *Here are this week's five links that are worth your time:*
 
-*1. Learn data structures from a Google engineer. This free beginner-friendly course will teach you common data structures like singly and doubly linked lists, stacks, queues, heaps, binary trees, hash tables, AVL trees, and more. (8 hour video course + code examples): https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/*
+*1. [Learn data structures from a Google engineer](https://www.freecodecamp.org/news/learn-data-structures-from-a-google-engineer/). This free beginner-friendly course will teach you common data structures like singly and doubly linked lists, stacks, queues, heaps, binary trees, hash tables, AVL trees, and more. (8 hour video course + code examples)*
 
-*2. How to code your own Random Meal Generator. Your web app will give you a random recipe and cooking tutorial video whenever you're hungry, but don't know what to cook. (7 minute read with code samples and a working demo): https://www.freecodecamp.org/news/creating-a-random-meal-generator/*
+*2. [How to code your own Random Meal Generator](https://www.freecodecamp.org/news/creating-a-random-meal-generator/). Your web app will give you a random recipe and cooking tutorial video whenever you're hungry, but don't know what to cook. (7 minute read with code samples and a working demo)*
 
-*3. How to learn constantly without burning out (6 minute read): https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/*
+*3. [How to learn constantly without burning out](https://www.freecodecamp.org/news/how-to-constantly-learn-without-burning-out/) (6 minute read)*
 
-*4. How to use productivity apps to organize your digital life, and get more done in less time (11 minute read): https://www.freecodecamp.org/news/productivity/*
+*4. [How to use productivity apps to organize your digital life](https://www.freecodecamp.org/news/productivity/), and get more done in less time (11 minute read)*
 
-*5. Lessons learned during Lekha's first year as a software engineer. She shares insights on what to expect, and also some tips for women getting into tech (7 minute read): https://www.freecodecamp.org/news/my-first-year-as-a-software-engineer/*
+*5. [Lessons learned during Lekha's first year as a software engineer](https://www.freecodecamp.org/news/my-first-year-as-a-software-engineer/). She shares insights on what to expect, and also some tips for women getting into tech (7 minute read)*
 
 *Quote of the Week: "The value of a prototype is in the education it gives you, not in the code itself." - Alan Cooper*
 
-*How is it possible that freeCodeCamp.org can help millions of people learn to code for free? It's all thanks to thoughtful people like you. Help us help even more people. Make a tax deductible donation today: https://donate.freecodecamp.org*
+*How is it possible that [freeCodeCamp.org](https://donate.freecodecamp.org) can help millions of people learn to code for free? It's all thanks to thoughtful people like you. Help us help even more people. Make a tax deductible donation today*
 
 *Happy coding.*
 
 *- Quincy Larson
-Teacher at freeCodeCamp.org*
+Teacher at [freeCodeCamp.org](https://donate.freecodecamp.org)*
 
 ## [W3Schools.com](https://www.w3schools.com/)
 
