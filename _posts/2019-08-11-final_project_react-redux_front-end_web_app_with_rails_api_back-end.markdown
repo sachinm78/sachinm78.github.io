@@ -48,7 +48,7 @@ When you’re ready to get started, simply use the command *create-react-app you
 
 **Container Components vs Presentational Components:** One of the most important concepts to make sure you understand before working on your project is the difference between Container - *or functional* - components and Presentational - *or stateless* - components.  The primary difference between the two is that  Container components care about *how things work* and Presentational components care about *how things look*.  
 
-To fully understand the difference between the two, we need to talk about **state**.  State is an object that helps determine how a component will handle changes to data.  In fact, React’s ability to quickly and easily manage changes to state is what truly makes it special.  A Container component be more complex and handle changes to state, while a Presentational component will generally be simpler and not concerned with state.  
+To fully understand the difference between the two, we need to talk about **state**.  State is an object that helps determine how a component will handle changes to data.  In fact, React’s ability to quickly and easily manage changes to state is what truly makes it special.  A Container component will be more complex and handle changes to state, while a Presentational component will generally be simpler and not concerned with state.  
 
 Here are some helpful resources to help you fully grasp these concepts:
 * [React Component](https://reactjs.org/docs/react-component.html) Documentation
