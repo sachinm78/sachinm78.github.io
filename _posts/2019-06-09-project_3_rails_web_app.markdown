@@ -21,7 +21,7 @@ For this project, your models must include:
  
 The relationships start simple.  For example, in my project, **a user has many reviews**.  But things can quickly become confusing once you add a **has_many :through** relationship.  To meet this requirement, your models will need to include a **join_table** with foreign keys for your other models.  The image below is a great example from the Rails Guide for [Active Record Associations](https://guides.rubyonrails.org/association_basics.html)
 
-![](https://guides.rubyonrails.org/images/has_many_through.png)
+![](https://guides.rubyonrails.org/images/association_basics/has_many_through.png)
 *(Image source: https://guides.rubyonrails.org/association_basics.html)*
 
 **User Authentication** 
