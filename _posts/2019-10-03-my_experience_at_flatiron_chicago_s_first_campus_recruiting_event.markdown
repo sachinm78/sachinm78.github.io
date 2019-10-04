@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "My Experience At Flatiron Chicago’s First Campus Recruiting Event"
-date:       2019-10-03 21:19:27 +0000
+date:       2019-10-03 17:19:28 -0400
 permalink:  my_experience_at_flatiron_chicago_s_first_campus_recruiting_event
 ---
 
 
-This week, I was one of the lucky Chicago area graduates that was invited to attend the first Campus Recruiting Event at Flatiron School’s Chicago campus.  In this week’s post, I’ll tell you about my experience and offer some key advice that will help you prepare for life after graduation.  I hope that other graduates or students working their way towards completing their programs will find this post informativel.
+This week, I was one of the lucky Chicago area graduates that was invited to attend the first Campus Recruiting Event at Flatiron School’s Chicago campus.  In this post, I’ll tell you about my experience and offer some key advice that will help you prepare for life after graduation.  I hope that other graduates or students working their way towards completing their programs will find this post informative.
 
 Before I go over the event, let’s cover some of the background.  It’s my understanding that Flatiron hosts these kinds of events at their campus locations to match graduates with prospective employers.  The campus in Chicago is fairly new.  I believe it opened in 2018.  The group of students attending this first event were some of the first graduates from either the Chicago Campus Immersive programs or like me, an online graduate that lives in the Chicago area.  To qualify for this event, we had to be graduates AND we had to have completed most of the career track requirements prior to the deadline to qualify for the event.  We were given plenty of notice about the upcoming event and the eligibility requirements, and we were also encouraged to work with our career coach to ensure we would be able to attend.  We were not required to have declared our job search starting date yet.  
 
