@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Final Project: React-Redux Front-end Web App With Rails API Back-end"
+title:      "Final Project: Randomizer App (React-Redux Client With Rails API) "
 date:       2019-08-11 16:42:38 -0400
 permalink:  final_project_react-redux_front-end_web_app_with_rails_api_back-end
 ---
