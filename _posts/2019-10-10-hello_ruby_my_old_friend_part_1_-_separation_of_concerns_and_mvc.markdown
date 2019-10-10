@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hello Ruby, My Old Friend: Part 1 - Separation of Concerns and MVC"
-date:       2019-10-10 18:00:01 +0000
+date:       2019-10-10 14:00:02 -0400
 permalink:  hello_ruby_my_old_friend_part_1_-_separation_of_concerns_and_mvc
 ---
 
@@ -17,7 +17,7 @@ In computer programming, **SoC** is a key design principle stating that software
 * Each part of your program will have a specific function, making it easier to trace and debug.
 * You can understand one part of the program by knowing its concern without having to worry about the others.
 * You can work on sections of code independently and check for functionality in each section before building out more complexity.
-* It helps to keep your code well organized and **[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).**
+* It helps to keep your code well organized and *[DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself).*
 
 Whether you’re just beginning to learn code or you’re a seasoned veteran, **SoC** is a principle you should adhere to.  In Ruby, that’s made easy using Rails and **[MVC Architecture]( https://www.sitepoint.com/model-view-controller-mvc-architecture-rails/)**.
 
