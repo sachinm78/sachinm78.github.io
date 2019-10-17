@@ -29,15 +29,42 @@ If you’re still having trouble understanding these concepts, you can [read mor
 
 Let’s take a look at a basic Ruby if/else statement.  In this example, we’ve written a Ruby method that lets us know whether to buy more apples or to eat an apple based on the number of apples we currently have.
 
-![](https://drive.google.com/file/d/1s13g3nODIV9pQyhVWQ5M_oyFCQMF79W-/view?usp=sharing)
+```
+def apple_shopper(apples)
+  if apples < 1 
+    "buy more apples" 
+  else 
+    "eat an apple"
+end
+
+apples = 3
+apple_shopper(apples)
+# =>eat an apple
+
+apples = 0
+apple_shopper(apples)
+# => buy more apples
+```
 
 With the magic of the ternary operator, this conditional statement can be written in one line of code as follows:
 
-![](https://drive.google.com/file/d/1aGDL3tbrOcjuCjHJnL8s8tE2OVbnr4pM/view?usp=sharing)
+```
+def apple_shopper(apples)
+  apples < 1 ? "buy more apples" : "eat an apple"
+end
+
+apples = 3
+apple_shopper(apples)
+# =>eat an apple
+
+apples = 0
+apple_shopper(apples)
+# => buy more apples
+```
 
 Simple, neat, concise!  The basic format to follow when using ternary operators is as follows:
 
-                                          **(condition) ? (true_return_value) : (false_return_value)**
+    **(condition) ? (true_return_value) : (false_return_value)**
 
 We have a conditional statement (the statement that is either going to be true or false), followed by a question mark *‘?’*. We then enter the return value if the conditional is true, which is followed by a colon *‘:’*. Lastly, we enter our return value if the condition is false.
 
