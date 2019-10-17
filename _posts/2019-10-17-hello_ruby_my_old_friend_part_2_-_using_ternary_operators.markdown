@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hello Ruby, My Old Friend: Part 2 - Using Ternary Operators"
-date:       2019-10-17 18:36:15 +0000
+date:       2019-10-17 14:36:16 -0400
 permalink:  hello_ruby_my_old_friend_part_2_-_using_ternary_operators
 ---
 
