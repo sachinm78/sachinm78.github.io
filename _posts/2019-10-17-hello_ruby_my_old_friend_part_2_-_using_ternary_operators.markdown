@@ -64,7 +64,7 @@ apple_shopper(apples)
 
 Simple, neat, concise!  The basic format to follow when using ternary operators is as follows:
 
-            (condition) ? (true_return_value) : (false_return_value)
+                              (condition) ? (true_return_value) : (false_return_value)
 
 We have a conditional statement (the statement that is either going to be true or false), followed by a question mark *‘?’*. We then enter the return value if the conditional is true, which is followed by a colon *‘:’*. Lastly, we enter our return value if the condition is false.
 
