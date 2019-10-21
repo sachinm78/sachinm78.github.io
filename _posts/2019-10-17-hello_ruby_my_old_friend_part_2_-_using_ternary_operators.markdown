@@ -6,7 +6,7 @@ permalink:  hello_ruby_my_old_friend_part_2_-_using_ternary_operators
 ---
 
 
-This month, I’m revisiting an old friend, Ruby, and covering topics related to Ruby and Rails.  In the [1st post in this series](http://crackingthecode.net/hello_ruby_my_old_friend_part_1_-_separation_of_concerns_and_mvc), I covered the **Separation of Concerns (SoC) Principle** and **MVC Architecture**.  This week, I’ll focus on a simple tip to help write cleaner, concise simple conditional statements in Ruby: the **ternary operator**.  
+This month, I’m revisiting an old friend, Ruby, and covering topics related to Ruby and Rails.  In the [1st post in this series](http://crackingthecode.net/hello_ruby_my_old_friend_part_1_-_separation_of_concerns_and_mvc), I covered the **Separation of Concerns (SoC) Principle** and **MVC Architecture**.  This week, I’ll focus on a neat tool to help write cleaner, concise simple conditional statements in Ruby: the **ternary operator**.  
 
 When you’re first starting out learning Ruby, it’s okay to focus on writing code that works first and foremost.  After all, the goal at the end of the day is to have code that’s functional.  And once you have that code working, it’s good practice to revisit it to see if it can be simplified or improved.  This is where things can get confusing for new developers.  One of the beauties of Ruby (or maybe one of the pitfalls if you’re new to coding) is that there are many ways to accomplish the same task.  So as a new developer, how do you know what’s best?  The answer to that will vary case by case, but it’s always good to know the tools at your disposal that can help take a large block of code and make it more concise and easier on the eyes.  One such tool that every Ruby developer should get comfortable using is the [ternary operator](https://www.rubyguides.com/2019/10/ruby-ternary-operator/).  
 
@@ -64,7 +64,7 @@ apple_shopper(apples)
 
 Simple, neat, concise!  The basic format to follow when using ternary operators is as follows:
 
-    **(condition) ? (true_return_value) : (false_return_value)**
+            (condition) ? (true_return_value) : (false_return_value)
 
 We have a conditional statement (the statement that is either going to be true or false), followed by a question mark *‘?’*. We then enter the return value if the conditional is true, which is followed by a colon *‘:’*. Lastly, we enter our return value if the condition is false.
 
