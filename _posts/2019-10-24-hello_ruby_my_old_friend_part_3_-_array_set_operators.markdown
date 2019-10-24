@@ -20,7 +20,7 @@ As you may have noticed from the documentation on the *[Set Class](https://ruby-
 
 ## Union   |
 
-The **union operator** *combines* the unique values of two sets.  To perform a union on two arrays you use the *pipe |* as an operator. For example:
+The **union operator** *combines* the unique values of two sets.  To perform a union on two arrays you use the *pipe*  as an operator. For example:
 
 ```
 [1, 2, 3] | [4, 5, 6]
@@ -32,7 +32,7 @@ The **union operator** *combines* the unique values of two sets.  To perform a u
 
 ## Intersection   &
 
-The **intersection operator** returns the elements that are *common* in both sets.  It uses the *ampersand “&”* symbol.   Let’s look at an example:
+The **intersection operator** returns the elements that are *common* in both sets.  It uses the *ampersand* symbol.   Let’s look at an example:
 
 ```
 [1, 2, 3] & [3, 4]
@@ -44,7 +44,7 @@ The **intersection operator** returns the elements that are *common* in both set
 
 ## Difference   -
 
-The **difference operator** returns the difference *between* two sets, and uses the *minus “-”* symbol.  Here’s an example:
+The **difference operator** returns the difference *between* two sets, and uses the *minus* symbol.  Here’s an example:
 
 ```
 [1, 2, 3] - [2, 3]
