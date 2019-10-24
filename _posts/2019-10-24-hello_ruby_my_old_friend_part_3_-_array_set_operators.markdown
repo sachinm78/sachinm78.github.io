@@ -20,7 +20,7 @@ As you may have noticed from the documentation on the *[Set Class](https://ruby-
 
 ## Union   |
 
-The **union operator** *combines* the unique values of two sets.  To perform a union on two arrays you use the *pipe “|”* as an operator. For example:
+The **union operator** *combines* the unique values of two sets.  To perform a union on two arrays you use the *pipe |* as an operator. For example:
 
 ```
 [1, 2, 3] | [4, 5, 6]
