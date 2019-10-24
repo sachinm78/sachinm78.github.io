@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hello Ruby, My Old Friend: Part 3 - Array Set Operators"
-date:       2019-10-24 17:15:26 +0000
+date:       2019-10-24 13:15:27 -0400
 permalink:  hello_ruby_my_old_friend_part_3_-_array_set_operators
 ---
 
@@ -20,7 +20,7 @@ As you may have noticed from the documentation on the *[Set Class](https://ruby-
 
 ## Union   |
 
-The **union operator** *combines* the unique values of two sets.  To perform a union on two arrays you use the* pipe “|”* as an operator. For example:
+The **union operator** *combines* the unique values of two sets.  To perform a union on two arrays you use the *pipe “|”* as an operator. For example:
 
 ```
 [1, 2, 3] | [4, 5, 6]
