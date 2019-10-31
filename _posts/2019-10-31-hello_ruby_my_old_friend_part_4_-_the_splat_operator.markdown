@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hello Ruby, My Old Friend: Part 4 - The Splat Operator"
-date:       2019-10-31 19:59:26 +0000
+date:       2019-10-31 15:59:27 -0400
 permalink:  hello_ruby_my_old_friend_part_4_-_the_splat_operator
 ---
 
@@ -16,7 +16,7 @@ In Ruby, the **Splat Operator** is represented by the `*` symbol.  There are man
 
 One of the common use cases for the single splat operator is when you don’t want to specify or are unsure of the number of arguments a method will take.  For example, let’s say we want to write code that greets members in a chat group, but we don’t know how many members will join.  We can use the splat operator to help us!
 
-``
+```
 def greeting(*people)
      people.each{|person| puts "Hello, #{person}!"}
 end
@@ -26,13 +26,13 @@ greeting("Amy", "Bob", "Chris")
 => Hello, Amy!
 => Hello, Bob!
 => Hello, Chris!
-``
+```
 
-In the example above, “*people” will capture all the arguments you pass into the greeting method.  This is definitely handy when defining a method with an unknown number of possible arguments, but did you know you can use a similar trick when calling a method as well?  
+In the example above, `*people` will capture all the arguments you pass into the greeting method.  This is definitely handy when defining a method with an unknown number of possible arguments, but did you know you can use a similar trick when calling a method as well?  
 
 In this example, we have a list of people and we want to call our greeting method on all of them.  
 
-``
+```
 people = ["Dan", "Ellen", "Frank"]
  
 greeting(*people)
@@ -40,11 +40,11 @@ greeting(*people)
 => Hello, Dan!
 => Hello, Ellen!
 => Hello, Frank!
-``
+```
 
 Works like a charm!  And believe it or not, there's actually a lot more you can do with splats.  One fun example I found is for assigning variables in an array.  Say that you want to assign the first element in an array to one variable and the rest to another:
 
-``
+```
 arr = [1, 2, 3, 4, 5]
 first, *rest = arr
 
@@ -53,7 +53,7 @@ first
 
 rest
 => [2, 3, 4, 5]
-``
+```
 
 That’s a cool little trick that was new to me.  So as you can see, the splat operator is pretty handy.  But it gets better.  Let’s double up the fun!
 
@@ -61,7 +61,7 @@ That’s a cool little trick that was new to me.  So as you can see, the splat o
 
 The double splat is represented by two `**` symbols.  It works very similarly to the single splat operator with one main difference: it can be used on hashes!  Let’s say we wanted to save a hash with the names and ages of the people in our chat group from above.  We could do something like this:
 
-``
+```
 def name_and_age(**hash)
      hash
 end
@@ -75,7 +75,7 @@ hash = {Dan: 37, Ellen: 32, Frank: 21}
 
 name_and_age(hash)
 => {:Dan=>37, :Ellen=>32, :Frank=>21}
-``
+```
 
 Here, the “key: value” arguments we pass into the method will save them in a hash.  This might not seem very useful since you could just write out the hash normally, but if you don’t know the number of arguments, then try the double splat method.
 
