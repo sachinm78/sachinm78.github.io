@@ -36,7 +36,7 @@ The error handling phase runs throughout all three phases above.  It’s importa
 Let’s look at the most commonly used lifecycle methods.
 
 ![](https://miro.medium.com/max/1200/1*552z6hbX_b648DjpTLHZNg.png)
-*Diagram of React 16 Component Lifecycle Methods*
+*Diagram of React 16.4 Component Lifecycle Methods*
 
 ## Common React Lifecycle Methods
 
@@ -79,7 +79,7 @@ Once your component has mounted and is ready, the next React lifecycle method  t
 
 Unlike the render() method, componentDidMount() allows the use of setState(). Calling the setState() here will update state and cause another rendering but it will happen before the browser updates the UI. This is to ensure that the user will not see any UI updates with the double rendering.  
 
-But even though you can call setState() here, it is not recommended because it can lead to performance issues or other unexpected bugs.  Instead, it is considered best practice to use the setState() method as past of the constructor() method.  
+But even though you can call setState() here, it is not recommended because it can lead to performance issues or other unexpected bugs.  Instead, it is considered best practice to use the setState() method as part of the constructor() method.  
 
 ### componentDidUpdate()
 
