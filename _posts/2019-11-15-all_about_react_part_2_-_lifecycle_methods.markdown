@@ -31,9 +31,11 @@ The final phase, or unmounting, is where the component “dies,” or is removed
 
 ### The Error Handling Phase
 
-The error handling phase runs throughout all three phases above.  It’s important to note that not all React components will go through all the above phases or use all the available lifecycle methods.  For example, you may have a React component that mounts, has no updates or errors, and then unmounts.  Let’s look at the most commonly used lifecycle methods.
+The error handling phase runs throughout all three phases above.  It’s important to note that not all React components will go through all the above phases or use all the available lifecycle methods.  For example, you may have a React component that mounts, has no updates or errors, and then unmounts.  
 
-![]https://miro.medium.com/max/1200/1*552z6hbX_b648DjpTLHZNg.png)
+Let’s look at the most commonly used lifecycle methods.
+
+![](https://miro.medium.com/max/1200/1*552z6hbX_b648DjpTLHZNg.png)
 *Diagram of React 16 Component Lifecycle Methods*
 
 ## Common React Lifecycle Methods
