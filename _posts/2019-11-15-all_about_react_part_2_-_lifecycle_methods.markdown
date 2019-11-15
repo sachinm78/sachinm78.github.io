@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "All About React: Part 2 - Lifecycle Methods"
-date:       2019-11-15 17:23:53 +0000
+date:       2019-11-15 12:23:54 -0500
 permalink:  all_about_react_part_2_-_lifecycle_methods
 ---
 
