@@ -83,7 +83,7 @@ When using arrow functions, you don't need that binding statement at all.  In fa
 ```
 state = {
         count: 0
-    }
+}
 ```
 
 See?  Much better!  And all thanks to that arrow function!  
