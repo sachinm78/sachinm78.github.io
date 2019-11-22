@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "All About React: Part 3 - Using Arrow Functions in React"
-date:       2019-11-22 22:03:46 +0000
+date:       2019-11-22 17:03:46 -0500
 permalink:  all_about_react_part_3_-_using_arrow_functions_in_react
 ---
 
