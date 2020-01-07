@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "All About React: Part 4 - Get Hooked on Hooks!"
-date:       2020-01-07 21:13:07 +0000
+date:       2020-01-07 16:13:08 -0500
 permalink:  all_about_react_part_4_-_get_hooked_on_hooks
 ---
 
@@ -147,7 +147,7 @@ function App() {
 export default App
 ```
 
-Here, we have imported the `useEffect` hook from the React library along with our `useState` hook.  We have also imported `randomcolor` to use in our app.  Next, in our state, we have created new variables, `color` and `setColor`, to manage the state of our counter.  We have initialized the color to be an empty string `“”`.  Next, we created a very simple function using the useEffect hook, which takes a function as an argument.  Here, we have used our setColor variable and randomcolor to change our counter value’s color.  We are also passing our `[count]` variable to this function.  Finally, we have added a `style` tag to our `<h1>` to set the color of our count value.  
+Here, we have imported the `useEffect` hook from the React library along with our `useState` hook.  We have also imported `randomcolor` to use in our app.  Next, in our state, we have created new variables, `color` and `setColor`, to manage the state of our counter.  We have initialized the color to be an empty string `“”`.  Next, we created a very simple function using the useEffect hook, which takes a function as an argument.  Here, we have used our `setColor` variable and `randomcolor` to change our counter value’s color.  We are also passing our `[count]` variable to this function.  Finally, we have added a `style` tag to our `<h1>` to set the color of our count value.  
 
 This may be a bit confusing to follow if you’re new to hooks. Just know that before hooks, this simple addition of a random color effect could have created a real headache to implement by using multiple lifecycle methods.  Thankfully, hooks makes adding effects to your code far simpler! 
 
